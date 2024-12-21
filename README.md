@@ -1,1 +1,1 @@
-# Infographics-for-Multidisciplinary-Correlations-IMC-
+# Infographics-for-Multidisciplinary-Correlations
