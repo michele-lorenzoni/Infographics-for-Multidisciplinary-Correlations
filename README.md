@@ -8,3 +8,5 @@ Lo scopo di questo scritto è quello di arrivare ad elaborare metodologia di com
 Prima di però addentrarci su queste metodologie inedite, è doveroso ripercorrere la storia della musica partendo da Pitagora fino ad arrivare a Schönberg.
 
 ## [CAP1] Musica Celeste
+
+![pitagora](img/pitagora.jpg)
